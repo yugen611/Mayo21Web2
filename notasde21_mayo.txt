@@ -1,0 +1,37 @@
+instalar xampp dehttps://www.apachefriends.org/download.html
+ instalar nopde.js es mejor la version 13
+luego npx create-react-app "nombre del pryecto"se crea donde esta el proyecto pero no funciona solo es el  14
+se ara remoto
+
+npm install create-react-app
+
+
+en el code el proyecto donde se creo una carpeta donde se abrira el proyecto
+se usara muchor el src
+
+app.css los estilos que se pueden cambiar
+el app.js lo que se visualiza donde se utiliza el java con el html
+
+el prinviapl es el app jss
+
+
+---------------------
+despues de crear el proyecto
+npm start inicia el servidor
+npm run buil fase de produccion
+npm test 
+
+----------------------luego ingresar al proyecto con cd "nombre del proyecto"------------
+luegop se lanaza en npm start para iniciar el servidor
+se lanzara en el navegador
+esatn react sobre javascipt
+ vue typescript
+angular javascript
+---------------avaqnce-------------------
+en app.js
+
+         en el p "holamundo"
+app.css
+
+         se cambia el diseño del react
+
